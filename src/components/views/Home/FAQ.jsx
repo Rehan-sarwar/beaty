@@ -1,6 +1,6 @@
 import React from 'react'
-import { RxDividerHorizontal } from 'react-icons/Rx';
-import { AiOutlinePlus } from 'react-icons/Ai';
+import { RxDividerHorizontal } from 'react-icons/Rx'
+import { AiOutlinePlus } from 'react-icons/Ai'
 function FAQ() {
   return (
     <div>

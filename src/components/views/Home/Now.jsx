@@ -1,7 +1,7 @@
 import React from 'react'
-import { BiCalendar } from 'react-icons/bi';
-import { RiWhatsappFill } from 'react-icons/Ri';
-import { BsBrowserChrome } from 'react-icons/Bs';
+import { BiCalendar } from 'react-icons/bi'
+import { RiWhatsappFill } from 'react-icons/Ri'
+import { BsBrowserChrome } from 'react-icons/Bs'
 function Now() {
   return (
     <div>

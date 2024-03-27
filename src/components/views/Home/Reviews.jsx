@@ -1,8 +1,8 @@
 import React from 'react'
-import Slider from 'react-slick';
-import { BsStarFill } from 'react-icons/Bs';
-import { FaFacebook } from 'react-icons/Fa';
-import { FcGoogle } from 'react-icons/Fc';
+import Slider from 'react-slick'
+import { BsStarFill } from 'react-icons/Bs'
+import { FaFacebook } from 'react-icons/Fa'
+import { FcGoogle } from 'react-icons/Fc'
 
 
 function Reviews() {

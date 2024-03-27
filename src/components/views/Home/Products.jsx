@@ -1,6 +1,6 @@
 import React from 'react'
-import { BiSolidStar } from 'react-icons/bi';
-import { MdOutlineLocalGroceryStore } from 'react-icons/Md';
+import { BiSolidStar } from 'react-icons/bi'
+import { MdOutlineLocalGroceryStore } from 'react-icons/Md'
 function Products() {
   return (
     <div>
