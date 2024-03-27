@@ -1,8 +1,8 @@
 import React from 'react'
 import { useState } from 'react';
-import { HiMagnifyingGlass } from 'react-icons/hi2'
-import { RiWhatsappFill } from 'react-icons/Ri'
-import { FaBars } from 'react-icons/Fa'
+// import { HiMagnifyingGlass } from 'react-icons/hi2'
+// import { RiWhatsappFill } from 'react-icons/Ri'
+// import { FaBars } from 'react-icons/Fa'
 
 
 const Navbar = () => {

@@ -1,5 +1,5 @@
-import {HiPhone} from 'react-icons/Hi'
-import {PiEnvelopeSimpleThin} from 'react-icons/Pi'
+// import {HiPhone} from 'react-icons/Hi'
+// import {PiEnvelopeSimpleThin} from 'react-icons/Pi'
 function Footer() {
   return (
     <div>

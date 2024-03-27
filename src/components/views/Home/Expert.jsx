@@ -1,5 +1,5 @@
 import React from 'react'
-import { RiWhatsappFill } from 'react-icons/Ri'
+// import { RiWhatsappFill } from 'react-icons/Ri'
 function Expert() {
   return (
     <div>
